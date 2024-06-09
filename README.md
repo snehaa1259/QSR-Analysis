@@ -2,7 +2,7 @@
 
 ### This is an analysis of QSR restaurant chains. The data was collected on April 2021. It was mainly cleaned through correcting the restaurants names and merging chain branches. The restaurant data was also spatial joined with country, urban area, and metropolitan statistical area shapefiles.
 
-![Picture1](https://github.com/snehaa1259/QSR-Analysis/assets/166873787/b5d9e857-38d3-4520-8636-1db96243696f)
+![Picture1](./Picture8.jpg)
 
 ![Picture2](https://github.com/snehaa1259/QSR-Analysis/assets/166873787/db4c8b6f-f24c-4a50-ac63-eb0c472d1750)
 
